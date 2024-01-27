@@ -29,6 +29,9 @@
 
 // OLED
 // #define OLED_FONT_H "./keymaps/aseiger/glcdfont.c"
+#define SPLIT_WPM_ENABLE
+#define SPLIT_OLED_ENABLE
+
 #define OLED_TIMEOUT 600000
 #define OLED_BRIGHTNESS 128
 
