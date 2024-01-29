@@ -24,3 +24,6 @@
 
 // set maximum layer limit for VIA
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
+
+// allow WPM
+#define SPLIT_WPM_ENABLE
