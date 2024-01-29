@@ -25,5 +25,8 @@
 // set maximum layer limit for VIA
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
 
-// allow WPM
+// OLED
 #define SPLIT_WPM_ENABLE
+// #define SPLIT_OLED_ENABLE
+#define OLED_TIMEOUT 600000
+#define OLED_BRIGHTNESS 128
