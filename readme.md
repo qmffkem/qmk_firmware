@@ -8,6 +8,9 @@
 
 This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](https://ergodox-ez.com) keyboard, and the Clueboard product line.
 
+## Custome keymap
+Check [THIS](https://github.com/qmffkem/qmk_firmware/tree/master/keyboards/sofle/keymaps/qmffkem) to find my own keymaps for sofle RGB V2.1
+
 ## Documentation
 
 * [See the official documentation on docs.qmk.fm](https://docs.qmk.fm)
