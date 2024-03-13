@@ -68,9 +68,9 @@
 	//#define RGBLIGHT_EFFECT_ALTERNATING
 	//#define RGBLIGHT_EFFECT_TWINKLE
 
-    #define RGBLED_NUM 70
+    #define RGBLED_NUM 72
 	//#define RGBLED_SPLIT
-	#define RGBLED_SPLIT { 35, 35 } // haven't figured out how to use this yet
+	#define RGBLED_SPLIT { 36, 36 } // haven't figured out how to use this yet
 
 	//#define RGBLED_NUM 30
     #define RGBLIGHT_LIMIT_VAL 120
